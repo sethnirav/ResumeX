@@ -1,2 +1,3 @@
-# ResumeX
-Analyze Resume with ATS Score
+# Welcome to your Lovable project
+
+TODO: Document your project here
